@@ -1,0 +1,51 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.59144",
+   "Default View_TopLeft":"-90,-364",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.5.8 2022-09-21 7111 VDI=41 GEI=38 GUI=JA:10.0
+#  -string -flagsOSRD
+preplace port port-id_a -pg 1 -lvl 3 -x 800 -y 420 -defaultsOSRD
+preplace port port-id_b -pg 1 -lvl 3 -x 800 -y 510 -defaultsOSRD
+preplace port port-id_c -pg 1 -lvl 3 -x 800 -y 540 -defaultsOSRD
+preplace port port-id_d -pg 1 -lvl 3 -x 800 -y 300 -defaultsOSRD
+preplace port port-id_e -pg 1 -lvl 3 -x 800 -y 240 -defaultsOSRD
+preplace port port-id_f -pg 1 -lvl 3 -x 800 -y 270 -defaultsOSRD
+preplace port port-id_g -pg 1 -lvl 3 -x 800 -y 390 -defaultsOSRD
+preplace port port-id_disp_right -pg 1 -lvl 3 -x 800 -y 330 -defaultsOSRD
+preplace port port-id_disp_left -pg 1 -lvl 3 -x 800 -y 360 -defaultsOSRD
+preplace port port-id_disp_midright -pg 1 -lvl 3 -x 800 -y 450 -defaultsOSRD
+preplace port port-id_disp_midleft -pg 1 -lvl 3 -x 800 -y 480 -defaultsOSRD
+preplace port port-id_cnt_clk -pg 1 -lvl 0 -x 0 -y 50 -defaultsOSRD
+preplace port port-id_cnt_en -pg 1 -lvl 0 -x 0 -y 80 -defaultsOSRD
+preplace port port-id_tc -pg 1 -lvl 3 -x 800 -y -60 -defaultsOSRD
+preplace inst lab_10_Modulo10Count_0 -pg 1 -lvl 1 -x 290 -y 70 -defaultsOSRD
+preplace inst lab_10_BCDtoSevenSeg_0 -pg 1 -lvl 1 -x 290 -y 380 -defaultsOSRD
+preplace inst xlslice_0 -pg 1 -lvl 2 -x 580 -y 0 -defaultsOSRD
+preplace inst xlslice_1 -pg 1 -lvl 2 -x 580 -y 100 -defaultsOSRD
+preplace inst xlslice_2 -pg 1 -lvl 2 -x 580 -y 200 -defaultsOSRD
+preplace inst xlslice_3 -pg 1 -lvl 2 -x 580 -y 300 -defaultsOSRD
+preplace netloc lab_10_Modulo10Count_0_cnt_out 1 1 1 480 0n
+preplace netloc xlslice_0_Dout 1 0 3 160 560 NJ 560 710
+preplace netloc xlslice_1_Dout 1 0 3 170 550 NJ 550 700
+preplace netloc xlslice_2_Dout 1 0 3 140 220 460J 390 680
+preplace netloc xlslice_3_Dout 1 0 3 150 570 NJ 570 690
+preplace netloc lab_10_BCDtoSevenSeg_0_a 1 1 2 450J 410 760J
+preplace netloc lab_10_BCDtoSevenSeg_0_b 1 1 2 430J 510 NJ
+preplace netloc lab_10_BCDtoSevenSeg_0_c 1 1 2 410J 540 NJ
+preplace netloc lab_10_BCDtoSevenSeg_0_d 1 1 2 440J 360 730J
+preplace netloc lab_10_BCDtoSevenSeg_0_e 1 1 2 420J 370 720J
+preplace netloc lab_10_BCDtoSevenSeg_0_f 1 1 2 NJ 380 740J
+preplace netloc lab_10_BCDtoSevenSeg_0_g 1 1 2 NJ 400 760J
+preplace netloc lab_10_BCDtoSevenSeg_0_disp_right 1 1 2 NJ 420 750J
+preplace netloc lab_10_BCDtoSevenSeg_0_disp_left 1 1 2 NJ 440 770J
+preplace netloc lab_10_BCDtoSevenSeg_0_disp_midright 1 1 2 470J 450 NJ
+preplace netloc lab_10_BCDtoSevenSeg_0_disp_midleft 1 1 2 NJ 480 NJ
+preplace netloc cnt_clk_0_1 1 0 1 50 50n
+preplace netloc cnt_en_0_1 1 0 1 N 80
+preplace netloc lab_10_Modulo10Count_0_cnt_tc 1 1 2 460J -60 NJ
+levelinfo -pg 1 0 290 580 800
+pagesize -pg 1 -db -bbox -sgen -110 -170 940 590
+"
+}
+
