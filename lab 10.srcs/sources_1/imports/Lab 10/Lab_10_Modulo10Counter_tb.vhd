@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------------------------------
 -- Course: ECE 232 - Digital System Design Lab
--- Author: 
+-- Author: Ember Ipek
 -- 
--- Create Date: 
+-- Create Date: 4/11/24
 -- Experiment Name: Modulo-10 Counter in VHDL (using Block Design tool in Vivado) 
 -- Design Name: Lab_10_Modulo10Counter
 -- Project Name: Lab_10_Modulo10Counter
